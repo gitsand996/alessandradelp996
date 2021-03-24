@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alessandradelp996
-- 👀 Machine Learning, NLP, Data Mining, Statistics & Computer Engineering 
+- 👀 Machine Learning, NLP, Data Mining, Statistics & Computer Vision 
 - ✨ Storytelling, Learning & Research 
 - 🌱 Master's Degree in the field of Machine and Deep Learning 
 - 📫 Contact me to alessandradelp@icloud.com
