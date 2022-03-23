@@ -2,7 +2,6 @@
 - 👀 Machine Learning, NLP, Data Mining, Statistics & Computer Vision 
 - 🎓 Computer Engineer
 - ✨ Master's Degree in the field of Machine and Deep Learning 
-- 📫 Contact me to alessandradelp@icloud.com
 
 <!---
 alessandradelp996/alessandradelp996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
